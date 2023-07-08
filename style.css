@@ -1,0 +1,74 @@
+nav {
+    background-color: rgb(12, 68, 12) !important;
+}
+
+nav a {
+    color: rgb(25, 227, 25) !important;
+    font-family: 'Lobster', cursive !important;
+}
+
+nav a:hover {
+    color: orange !important;
+}
+
+body {
+    background: linear-gradient(lime, green, darkgreen, rgb(11, 57, 11));
+    padding-top: 50px;
+    text-align: center;
+    font-family: 'Caveat', cursive;
+}
+
+.panel {
+    font-size: 25px;
+    box-shadow: 4px 5px 8px black;
+}
+
+.Gustos {
+    padding: 15px;
+    border-radius: 12px;
+    font-size: 25px;
+    box-shadow: 4px 5px 8px black;
+    margin-bottom: 20px;
+}
+
+.glyphicon-star {
+    color: gold;
+    font-size: 50px !important;
+}
+
+#Chunky {
+    font-size: 25px !important;
+}
+
+kbd {
+    font-family: 'Lobster', cursive !important;
+}
+
+#Mirringos-life {
+    font-size: 35px;
+}
+
+.carousel-caption {
+    font-size: 25px;
+}
+
+.carousel-inner>.item>img,
+.carousel-inner>.item>a>img {
+    width: 100%;
+    margin: auto;
+    object-fit: cover;
+}
+
+.carousel .item {
+    height: 650px;
+}
+#Mirringosentado{
+    width: 250px;
+    border-radius: 30%;
+    border-color: darkgreen;
+    border-style:double ;
+    border-width: 15px;
+}
+.active>a{
+    background-color: darkgreen !important;
+}
